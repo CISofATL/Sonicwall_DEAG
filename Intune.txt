@@ -76,14 +76,6 @@ contentauthrafcontentcdn-prod.azureedge.net
 contentauthrafcontentcdn-prodeur.azureedge.net
 fd.api.orgmsg.microsoft.com
 ris.prod.api.personalization.ideas.microsoft.com
-*.cloud.microsoft
-*.static.microsoft
-*.usercontent.microsoft
-outlook.cloud.microsoft
-outlook.office.com
-outlook.office365.com
-*.outlook.com
-autodiscover.cisatl.onmicrosoft.com
 *.protection.outlook.com
 *.mail.protection.outlook.com
 *.mx.microsoft
